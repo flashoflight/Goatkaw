@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/dylanhubbard/Documents/TheTreeHouse/Trial/MessagingTutorial/build/intermediates/pre-dexed/debug/sinch-android-rtc-3.2.4-fbdea0b5751d1853deb3ba58b63ceedb0500d6b5.jar"
+        jar="/Users/dylanhubbard/Documents/TheTreeHouse/Trial/MessagingTutorial/libs/sinch-android-rtc-3.2.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b11e6c1e989379edd0e8576fb6fe2dd3ad317738"/>
+    <item
+        dex="/Users/dylanhubbard/Documents/TheTreeHouse/Trial/MessagingTutorial/build/intermediates/pre-dexed/debug/classes-a32200ed613ccd59dce0969ee6c8d02c1a7e0428.jar"
+        jar="/Users/dylanhubbard/Documents/TheTreeHouse/Trial/MessagingTutorial/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="/Users/dylanhubbard/Documents/TheTreeHouse/Trial/MessagingTutorial/build/intermediates/pre-dexed/debug/Parse-1.5.1-a2fdf993d7367b4d01607c793eba16be65116420.jar"
+        jar="/Users/dylanhubbard/Documents/TheTreeHouse/Trial/MessagingTutorial/libs/Parse-1.5.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3d645417e7780d44f32e29a3ec6b729b75aef26c"/>
+    <item
+        dex="/Users/dylanhubbard/Documents/TheTreeHouse/Trial/MessagingTutorial/build/intermediates/pre-dexed/debug/support-v4-19.1.0-fe930dc68beb1e566675ce71b270d4091c6c249b.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>
